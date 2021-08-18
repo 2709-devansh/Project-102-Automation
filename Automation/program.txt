@@ -1,0 +1,1 @@
+To make a program that reads(speaks) a pdf file,
